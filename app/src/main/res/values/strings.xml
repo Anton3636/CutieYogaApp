@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CutieYoga</string>
+    <string name="exercises">Exercises</string>
+    <string name="setting">Setting</string>
+    <string name="calendar">Calendar</string>
+    <string name="view_exercise">VIEW EXERCISE</string>
+    <string name="imgpreview">imgPreview</string>
+    <string name="_20">20</string>
+    <string name="w_img">w_img</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="name_of_exercise">NAME OF EXERCISE</string>
+    <string name="easy_mode">Easy</string>
+    <string name="medium_mode">Medium</string>
+    <string name="hard_mode">Hard</string>
+    <string name="on_off_alarm">On/Off Alarm</string>
+    <string name="save">Save</string>
+    <string name="about_yoga_for_kids">About Yoga For Kids</string>
+    <string name="tools">Tools</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="yoga_is_about_exploring_and_learning_in_a_fun_safe_and_playful_way_yoga_and_kids_are_a_perfect_match_here_is_what_children_and_adults_can_learn_from_yoga">Yoga is about exploring and learning in a fun, safe and playful way. Yoga and kids are a perfect match. Here is what children (and adults!) can learn from yoga:</string>
+    <string name="yoga_teaches_us_about_our_bodies_when_we_practice_the_physical_postures_or_exercises_called_asanas_we_learn_how_to_move_more_freely_and_with_greater_ease_and_awareness_these_postures_help_our_bodies_become_strong_and_flexible">Yoga teaches us about our bodies. When we practice the physical postures or exercises (called asanas), we learn how to move more freely and with greater ease and awareness. These postures help our bodies become strong and flexible.</string>
+    <string name="yoga_teaches_us_how_to_breathe_better_when_we_breathe_deeply_and_fully_called_pranayama_and_become_more_aware_we_can_bring_peacefulness_or_energy_to_our_bodies">Yoga teaches us how to breathe better. When we breathe deeply and fully (called pranayama) and become more aware, we can bring peacefulness or energy to our bodies.</string>
+    <string name="yoga_teaches_us_about_balance_when_we_practice_yoga_we_learn_to_be_more_aware_about_the_need_for_balance_in_our_lives_this_could_mean_equal_stretching_on_the_left_and_right_sides_of_our_bodies_or_making_sure_we_balance_our_very_busy_time_with_equal_quiet_time_and_relaxation">Yoga teaches us about balance. When we practice yoga, we learn to be more aware about the need for balance in our lives. This could mean equal stretching on the left and right sides of our bodies or making sure we balance our very busy time with equal quiet time and relaxation.</string>
+    <string name="yoga_teaches_us_to_be_the_boss_of_our_bodies_yoga_teaches_us_to_listen_to_our_bodies_by_modifying_or_changing_poses_that_are_too_hard_or_cause_pain_we_will_talk_about_how_to_modify_poses_in_a_later_section">Yoga teaches us to be the “boss” of our bodies. Yoga teaches us to listen to our bodies by modifying or changing poses that are too hard or cause pain. (We will talk about how to modify poses in a later section.)</string>
+    <string name="yoga_teaches_us_about_taking_care_of_ourselves_yoga_is_a_great_way_to_move_our_bodies_and_feel_healthy_and_teaching_children_how_to_take_care_of_themselves_is_one_way_to_show_love_as_with_all_forms_of_exercise_a_good_yoga_practice_can_mean_a_good_night_s_sleep">Yoga teaches us about taking care of ourselves. Yoga is a great way to move our bodies and feel healthy. And teaching children how to take care of themselves is one way to show love. As with all forms of exercise, a good yoga practice can mean a good night’s sleep!</string>
+</resources>

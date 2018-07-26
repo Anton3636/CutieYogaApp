@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/homeimage"
+    tools:context="com.example.antosh.cutieyoga.MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/ll2"
+            android:orientation="horizontal"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+
+
+
+            <Button
+                android:id="@+id/btnExercises"
+                android:text="@string/exercises"
+                android:background="@color/colorPrimaryDarkHome"
+                android:textColor="@color/backgroundViewExerciseDark"
+                android:textStyle="italic"
+                android:textSize="18sp"
+                android:layout_weight="1"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginBottom="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/btnSetting"
+                android:text="@string/setting"
+                android:textStyle="italic"
+                android:textSize="18sp"
+                android:background="@color/colorPrimaryDarkHome"
+                android:textColor="@color/backgroundViewExerciseDark"
+                android:layout_weight="1"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

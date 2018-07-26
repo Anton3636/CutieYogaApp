@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Properties">
+    <menu >
+
+
+
+        <item
+            android:id="@+id/about_app"
+            android:icon="@drawable/ic_info_outline_white_48dp"
+            android:title="@string/about_yoga_for_kids" />
+
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/tools" />
+
+
+    </menu>
+    </item>
+
+    <item android:title="@string/communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share"
+                 />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@android:drawable/stat_notify_chat"
+                android:title="@string/feedback"
+                />
+            <item
+                android:id="@+id/rate_app"
+                android:icon="@android:drawable/btn_star"
+                android:title="@string/rate_us" />
+        </menu>
+    </item>
+
+</menu>

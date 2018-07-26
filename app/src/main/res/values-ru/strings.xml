@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CutieYoga</string>
+    <string name="exercises">Упражнения</string>
+    <string name="setting">Настройки</string>
+    <string name="calendar">Календарь</string>
+    <string name="view_exercise">ПРОСМОТРЕТЬ УПРАЖНЕНИЕ</string>
+    <string name="imgpreview">Предварительный просмотр картинки</string>
+    <string name="_20">20</string>
+    <string name="w_img">w_img</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="name_of_exercise">НАЗВАНИЕ УПРАЖНЕНИЯ</string>
+    <string name="easy_mode">Легко</string>
+    <string name="medium_mode">Нормально</string>
+    <string name="hard_mode">Трудный</string>
+    <string name="on_off_alarm">Вкл/Выкл Сигнал</string>
+    <string name="save">Сохранить</string>
+    <string name="about_yoga_for_kids">О йоге для детей</string>
+    <string name="tools">Инструменты</string>
+    <string name="communicate">Сообщаться</string>
+    <string name="share">Поделиться</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="rate_us">Оцените нас</string>
+
+    <string name="yoga_is_about_exploring_and_learning_in_a_fun_safe_and_playful_way_yoga_and_kids_are_a_perfect_match_here_is_what_children_and_adults_can_learn_from_yoga">Йога - это изучение и обучение в веселом, безопасном и игривом стиле. Йога и дети - идеальное сочетание. Вот что дети (и взрослые!) Могут учиться на йоге:</string>
+    <string name="yoga_teaches_us_about_our_bodies_when_we_practice_the_physical_postures_or_exercises_called_asanas_we_learn_how_to_move_more_freely_and_with_greater_ease_and_awareness_these_postures_help_our_bodies_become_strong_and_flexible">Йога учит нас о наших телах. Когда мы практикуем физические позы или упражнения (называемые асанами), мы узнаем, как двигаться более свободно и с большей легкостью и осознанностью. Эти позы помогают органам наших детей стать сильными и гибкими.</string>
+    <string name="yoga_teaches_us_how_to_breathe_better_when_we_breathe_deeply_and_fully_called_pranayama_and_become_more_aware_we_can_bring_peacefulness_or_energy_to_our_bodies">Йога учит наших детей лучше дышать. Когда мы дышим глубоко и полностью (называем пранаямой) и становимся более осведомленными, они могут принести спокойствие или энергию своим телам.</string>
+    <string name="yoga_teaches_us_about_balance_when_we_practice_yoga_we_learn_to_be_more_aware_about_the_need_for_balance_in_our_lives_this_could_mean_equal_stretching_on_the_left_and_right_sides_of_our_bodies_or_making_sure_we_balance_our_very_busy_time_with_equal_quiet_time_and_relaxation">Йога учит нас балансу. Когда мы практикуем йогу, мы учимся более осознавать необходимость баланса в нашей жизни. Это может означать равное растяжение на левой и правой сторонах наших тел или обеспечение того, чтобы мы сбалансировали наше очень занятое время с равным спокойным временем и расслаблением.</string>
+    <string name="yoga_teaches_us_to_be_the_boss_of_our_bodies_yoga_teaches_us_to_listen_to_our_bodies_by_modifying_or_changing_poses_that_are_too_hard_or_cause_pain_we_will_talk_about_how_to_modify_poses_in_a_later_section">Йога учит нас быть «боссом» наших тел. Йога учит нас слушать наши тела, изменяя или изменяя позы, которые слишком тяжелы или причиняют боль)</string>
+    <string name="yoga_teaches_us_about_taking_care_of_ourselves_yoga_is_a_great_way_to_move_our_bodies_and_feel_healthy_and_teaching_children_how_to_take_care_of_themselves_is_one_way_to_show_love_as_with_all_forms_of_exercise_a_good_yoga_practice_can_mean_a_good_night_s_sleep">Йога учит нас заботиться о себе. Йога - отличный способ передвинуть наши тела и чувствовать себя здоровыми. И обучение детей тому, как позаботиться о себе, - это один из способов показать любовь. Как и во всех формах упражнений, хорошая практика йоги может означать хороший ночной сон!</string>
+
+
+</resources>

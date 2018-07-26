@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.antosh.cutieyoga">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/firelogpose"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/firelogpose"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ListExercise"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ViewExercise"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashScreen.WelcomePage"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.cutie.WELCOMEPAGE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Settings"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name=".AlarmNotification" />
+
+        <activity android:name=".AboutYoga"></activity>
+    </application>
+
+</manifest>

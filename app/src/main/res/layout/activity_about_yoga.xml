@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.antosh.cutieyoga.AboutYoga">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/textView3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/yoga_is_about_exploring_and_learning_in_a_fun_safe_and_playful_way_yoga_and_kids_are_a_perfect_match_here_is_what_children_and_adults_can_learn_from_yoga" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView4"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp"
+        android:text="@string/yoga_teaches_us_about_our_bodies_when_we_practice_the_physical_postures_or_exercises_called_asanas_we_learn_how_to_move_more_freely_and_with_greater_ease_and_awareness_these_postures_help_our_bodies_become_strong_and_flexible" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView5"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="17dp"
+        android:text="@string/yoga_teaches_us_how_to_breathe_better_when_we_breathe_deeply_and_fully_called_pranayama_and_become_more_aware_we_can_bring_peacefulness_or_energy_to_our_bodies" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView6"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="19dp"
+        android:text="@string/yoga_teaches_us_about_balance_when_we_practice_yoga_we_learn_to_be_more_aware_about_the_need_for_balance_in_our_lives_this_could_mean_equal_stretching_on_the_left_and_right_sides_of_our_bodies_or_making_sure_we_balance_our_very_busy_time_with_equal_quiet_time_and_relaxation" />
+
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView7"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="21dp"
+        android:text="@string/yoga_teaches_us_to_be_the_boss_of_our_bodies_yoga_teaches_us_to_listen_to_our_bodies_by_modifying_or_changing_poses_that_are_too_hard_or_cause_pain_we_will_talk_about_how_to_modify_poses_in_a_later_section" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="19dp"
+        android:text="@string/yoga_teaches_us_about_taking_care_of_ourselves_yoga_is_a_great_way_to_move_our_bodies_and_feel_healthy_and_teaching_children_how_to_take_care_of_themselves_is_one_way_to_show_love_as_with_all_forms_of_exercise_a_good_yoga_practice_can_mean_a_good_night_s_sleep"
+        android:id="@+id/textView7" />
+
+</RelativeLayout>

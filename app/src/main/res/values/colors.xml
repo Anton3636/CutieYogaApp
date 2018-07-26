@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff4e6</color>
+    <color name="colorPrimaryDark">#3c2f2f</color>
+    <color name="colorDarkness">#3c2f2f</color>
+    <color name="colorDrawer">#3f3c2f2f</color>
+    <color name="colorPrimaryDarkHome">#3f0a0000</color>
+    <color name="colorAccent">#f9d0f3</color>
+    <color name="background">#fdfdd7</color>
+    <color name="backgroundViewExercise">#6ee4efe9</color>
+    <color name="backgroundViewExerciseDark">#e4efe9</color>
+    <color name="backgroundCardItem">#93a5cf</color>
+    <color name="card">#f9d0f3</color>
+    <color name="myColor">#dffcefb1</color>
+
+</resources>
